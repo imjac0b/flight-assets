@@ -180,3 +180,5 @@ index.ts
 bun.lockb
 package.json
 tsconfig.json
+aircraft.ts
+aircrafts-images.db.bin
